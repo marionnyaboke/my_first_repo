@@ -1,2 +1,2 @@
-# my_first_repo
-The first Github Repo I created during Programming for Biologist Class
+# My First Repo
+The first Github Repo I created during Programming for Biologist Class.
